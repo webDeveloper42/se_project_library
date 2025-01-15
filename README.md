@@ -14,4 +14,3 @@ program at TripleTen. It was created using HTML and CSS, based on a design brief
 
 - Implemented BEM Techonlogy on file structure for css blocks and javascript modularization.
 - Created data in javascript to store text information
-- Redesign project using Bootstrap
